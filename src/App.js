@@ -10,7 +10,7 @@ class App extends React.Component {
       <>
         <div>
           <Nav />
-          <h2>Hello World</h2>
+          <h2>Hello Worldss</h2>
           {
             [1,2,3].map((data, index)=>{
               return <Card key={index}/>
